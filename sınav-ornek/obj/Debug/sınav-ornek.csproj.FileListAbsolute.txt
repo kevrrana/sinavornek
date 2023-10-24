@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\bin\Debug\sınav-ornek.exe.config
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\bin\Debug\sınav-ornek.exe
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\bin\Debug\sınav-ornek.pdb
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav_ornek.Form1.resources
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.exe
+C:\Users\User\source\repos\sınav-ornek\sınav-ornek\obj\Debug\sınav-ornek.pdb
